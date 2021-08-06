@@ -79,7 +79,6 @@ idna==2.10
 itsdangerous==1.1.0
 jsonify==0.5
 requests==2.24.0
-threadpoolctl==2.1.0
 urllib3==1.25.9
 Werkzeug==1.0.1
-wincertstore==0.2
+
